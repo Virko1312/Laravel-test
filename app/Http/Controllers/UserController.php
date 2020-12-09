@@ -10,13 +10,13 @@ class UserController extends Controller
 {
     public function index()
     {
-        $data = [
+        /*$data = [
             'name'=>'Elon',
             'email'=>'elon@bitfumes.com',
             'password'=>'password',
         ];
 
-        \App\Models\User::create($data);
+        \App\Models\User::create($data);*/
 
 
         /*$user = new User();
