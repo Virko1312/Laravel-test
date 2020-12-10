@@ -8,6 +8,13 @@ use Illuminate\Support\Facades\DB;
 
 class UserController extends Controller
 {
+    public function uploadAvatar(Request $request)
+    {
+        //$request->image->store('images', 'public');
+        \App\Models\User::find(1)->update(['avatar' => 'asdasd']);
+        return 'uploadeeeed';
+    }
+
     public function index()
     {
         /*$data = [

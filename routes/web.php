@@ -1,5 +1,6 @@
 <?php
 
+use http\Client\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,6 +19,7 @@ Route::get('/', function () {
 });
 
 Route::get('/user', [\App\Http\Controllers\UserController::class, 'index']);
+Route::post('/upload', [\App\Http\Controllers\UserController::class, 'uploadAvatar']);
 
 Auth::routes();
 
