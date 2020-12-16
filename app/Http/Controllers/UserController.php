@@ -5,17 +5,17 @@ namespace App\Http\Controllers;
 use Illuminate\Foundation\Auth\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Storage;
 
 class UserController extends Controller
 {
     public function uploadAvatar(Request $request)
     {
         if($request->hasFile('image')) {
-            $filename = $request->image->getClientOriginalName();
-            $request->image->storeAs('images', $filename, 'public');
-            \App\Models\User::find(1)->update(['avatar' => $filename]);
+            \App\Models\User::uploadAvatar($request->image);
+            return redirect()->back()->with('message', 'Image uploaded.'); //success message
         }
-        return redirect()->back();
+        return redirect()->back()->with('error', 'Image not uploaded.'); //error message
     }
 
     public function index()
