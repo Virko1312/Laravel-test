@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab84f0d-bc7f-43ea-a01f-34621c87ca6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/todos/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/seven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seven.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Todo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_12_16_134927_create_todos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_12_16_134927_create_todos_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/todos/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/todos/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/todos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/todos/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="dab84f0d-bc7f-43ea-a01f-34621c87ca6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +176,7 @@
       <workItem from="1610657871785" duration="7067000" />
       <workItem from="1610737523705" duration="10003000" />
       <workItem from="1610995749467" duration="5026000" />
-      <workItem from="1612269022478" duration="33803000" />
+      <workItem from="1612269022478" duration="34107000" />
     </task>
     <servers />
   </component>
