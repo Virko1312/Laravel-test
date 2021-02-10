@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab84f0d-bc7f-43ea-a01f-34621c87ca6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/todos/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/seven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seven.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TodoController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/Todo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Todo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_12_16_134927_create_todos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_12_16_134927_create_todos_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/todos/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/todos/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/todos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/todos/index.blade.php" afterDir="false" />
@@ -108,7 +116,6 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
-      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
@@ -135,7 +142,6 @@
       <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
@@ -143,6 +149,9 @@
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l0LVApXyUxb5OwaGo9OoOv5Ky0" />
@@ -154,6 +163,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -181,7 +191,10 @@
       <workItem from="1608671958182" duration="10337000" />
       <workItem from="1610151560300" duration="832000" />
       <workItem from="1610153188188" duration="10801000" />
-      <workItem from="1610657871785" duration="6742000" />
+      <workItem from="1610657871785" duration="7067000" />
+      <workItem from="1610737523705" duration="10003000" />
+      <workItem from="1610995749467" duration="5026000" />
+      <workItem from="1612269022478" duration="33803000" />
     </task>
     <servers />
   </component>
